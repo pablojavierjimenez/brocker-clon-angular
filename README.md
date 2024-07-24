@@ -1,7 +1,9 @@
 # Brocker-Clon-Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
-```
+
+```bash
+# creation date 24-07-2024
 Nodejs v20.13.1
 NPM version 10.8.0
 NG version 18.1.1.
@@ -30,3 +32,27 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+----
+
+## Tailwind config
+
+### Setting tailwind
+
+[Docs Tailwind angular](https://tailwindcss.com/docs/guides/angular)
+
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+```
+
+### Tailwind with anguilar setting
+
+[Using with Preprocessors](https://tailwindcss.com/docs/using-with-preprocessors#build-time-imports)
+
+```bash
+npm install -D postcss-import
+npm install -D postcss-nesting
+```
+
+*⚠️ NOTE:* [IF you are Using Sass, Less, or Stylus](https://tailwindcss.com/docs/using-with-preprocessors#using-sass-less-or-stylus)

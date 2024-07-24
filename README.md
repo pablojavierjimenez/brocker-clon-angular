@@ -56,3 +56,15 @@ npm install -D postcss-nesting
 ```
 
 *⚠️ NOTE:* [IF you are Using Sass, Less, or Stylus](https://tailwindcss.com/docs/using-with-preprocessors#using-sass-less-or-stylus)
+
+----
+
+## Angular with Jest and TestingLibrary 🐙
+
+[Optimizing Web Application Testing with Angular Testing Library and Jest](https://medium.com/@bricec/optimizing-web-application-testing-with-angular-testing-library-and-jest-12665b5af8b7)
+
+[Angular Testing Library documentation.](https://testing-library.com/docs/angular-testing-library/api)
+
+[Good testing practices with 🦔 Angular Testing Library](https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library)
+
+[Buenas prácticas con Angular Testing Library](https://dev.to/ngcontent/buenas-practicas-con-angular-testing-library-59lp)
